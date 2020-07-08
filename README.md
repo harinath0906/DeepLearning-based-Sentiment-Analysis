@@ -23,6 +23,5 @@ I believe the below improvements might improve the model.
 * Extract characted based Word2Vec by concatenating the values from hidden states of the LSTM network
 
 ## References
-https://medium.com/@galhever/sentiment-analysis-with-pytorch-part-4-lstm-bilstm-model-84447f6c4525
-https://stackoverflow.com/questions/15175142/how-can-i-do-multiple-substitutions-using-regex-in-python
-https://radimrehurek.com/gensim/downloader.html
+* https://medium.com/@galhever/sentiment-analysis-with-pytorch-part-4-lstm-bilstm-model-84447f6c4525
+* https://stackoverflow.com/questions/15175142/how-can-i-do-multiple-substitutions-using-regex-in-python
