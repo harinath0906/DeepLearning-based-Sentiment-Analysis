@@ -5,12 +5,12 @@ Sentiment analysis is contextual mining of text which identifies and extracts su
 The dataset used here is from https://ai.stanford.edu/~amaas/data/sentiment/
 
 ## Below are some techniques covered and demonstrated in the Jupyter Notebook
-Data preprocessing - using nltk and regex patterns
-CBOW Word2Vec modelling
-Character based Word2Vec modelling
-LSTM based sequence model
-PyTorch
-Visualisation using matplotlib
-Hyperparameter Optimization
+* Data preprocessing - using nltk and regex patterns
+* CBOW Word2Vec modelling
+* Character based Word2Vec modelling
+* Bi-LSTM based sequence model
+* PyTorch
+* Visualisation using matplotlib
+* Hyperparameter Optimization
 
 ## Main goal:
