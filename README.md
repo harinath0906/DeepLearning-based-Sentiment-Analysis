@@ -13,4 +13,6 @@ The dataset used here is from https://ai.stanford.edu/~amaas/data/sentiment/
 * Visualisation using matplotlib
 * Hyperparameter Optimization
 
-## Main goal:
+## Objective
+
+The main goal was to try and demonstrate NLP, deep learning methods via PyTorch and hence less focus was given to accuracy.
