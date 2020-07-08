@@ -14,5 +14,10 @@ The dataset used here is from https://ai.stanford.edu/~amaas/data/sentiment/
 * Hyperparameter Optimization
 
 ## Objective
+The main goal was to try and demonstrate NLP, deep learning methods via PyTorch and hence less focus was given to attain more accuracy.
 
-The main goal was to try and demonstrate NLP, deep learning methods via PyTorch and hence less focus was given to accuracy.
+## Improvements to be added
+I believe the below improvements might improve the model.
+* Check if readily available genism Word2Vec embeddings (https://radimrehurek.com/gensim/downloader.html) are giving better results
+* Use pre-trained BERT to get contextual embedding of the sentences
+* Extract characted based Word2Vec by concatenating the values from hidden states of the LSTM network
